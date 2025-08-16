@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add your custom global styles below */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: 'Inter', sans-serif; /* Assuming Inter font is desired */
+}
